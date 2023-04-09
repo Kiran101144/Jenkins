@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="POJOADEMO.TestPojo">
+      <class name="E2ETesting.E2E">
         <methods>
-          <include name="pokoClass"/>
+          <include name="GetToken"/>
         </methods>
-      </class> <!-- POJOADEMO.TestPojo -->
+      </class> <!-- E2ETesting.E2E -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

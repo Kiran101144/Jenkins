@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-26T09:56:06 IST" name="Default suite" finished-at="2023-01-26T09:56:15 IST" duration-ms="8406">
+  <suite started-at="2023-01-28T23:01:47 IST" name="Default suite" finished-at="2023-01-28T23:01:56 IST" duration-ms="8204">
     <groups>
     </groups>
-    <test started-at="2023-01-26T09:56:06 IST" name="Default test" finished-at="2023-01-26T09:56:15 IST" duration-ms="8406">
-      <class name="POJOADEMO.TestPojo">
-        <test-method signature="pokoClass()[pri:0, instance:POJOADEMO.TestPojo@4c1909a3]" started-at="2023-01-26T09:56:07 IST" name="pokoClass" finished-at="2023-01-26T09:56:15 IST" duration-ms="8258" status="PASS">
+    <test started-at="2023-01-28T23:01:47 IST" name="Default test" finished-at="2023-01-28T23:01:56 IST" duration-ms="8204">
+      <class name="E2ETesting.E2E">
+        <test-method signature="GetToken()[pri:0, instance:E2ETesting.E2E@4c1909a3]" started-at="2023-01-28T23:01:47 IST" name="GetToken" finished-at="2023-01-28T23:01:56 IST" duration-ms="8067" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- pokoClass -->
-      </class> <!-- POJOADEMO.TestPojo -->
+        </test-method> <!-- GetToken -->
+      </class> <!-- E2ETesting.E2E -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
